@@ -4,11 +4,20 @@
 1. Create a GitHub account on https://github.com
 2. Create a repository
 3. Add me ynon.lo@gmail.com as a collaborator
-5. install [git](https://git-scm.com/downloads) **not GitHub for desktop.**
-6. Create a new folder in C:\ named 'workspace'
-4. clone the repository you created to the folder you created (google how to clone a repo from GitHub).
-1. Install both VSCode (Visual Studio Code) and Node.js
-2. Open VSCode and open the folder containing your repo
+4. install [git](https://git-scm.com/downloads) **not GitHub for desktop.**
+5. Create a new folder in C:\ named 'workspace'
+6. clone the repository you created to the folder you created
+
+   On start menu type "cmd" and click Entel
+
+   type:
+   ~~~
+   C:\Users\YOURURERNAME>cd C:\workspace
+   C:\workspace>git clone https://github.com/YOURGITHUBURERNAME/YOURRIPOSITORYNAME.git
+   ~~~
+   (you may be asked for your username and password of your GitHub account)
+7. Install both VSCode (Visual Studio Code) and Node.js
+8. Open VSCode and open the folder containing your repo
 
 ### Create your first web page
 On Google or YouTube find an HTML tutorial, try to understand the structure of HTML, and create a new HTML file. the file's title will be 'hello wold' and in the body will be:
@@ -23,6 +32,6 @@ git pull
 git commit -m "my first commit"
 git push
 ~~~
-(you may be asked for your username and password of your GitHub account)
+(you may be asked again for your username and password of your GitHub account)
 
 And set up a meeting with me, good luck!

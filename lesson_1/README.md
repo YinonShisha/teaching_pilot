@@ -2,13 +2,13 @@
 ## assignment
 ### Set up your workspace
 1. Create a GitHub account on https://github.com
-2. Create a repository
+2. Create a repository [here](https://github.com/new)
 3. Add me ynon.lo@gmail.com as a collaborator
 4. install [git](https://git-scm.com/downloads) **not GitHub for desktop.**
 5. Create a new folder in C:\ named 'workspace'
 6. clone the repository you created to the folder you created
 
-   On start menu type "cmd" and click Entel
+   On start menu type "cmd" and click Enter
 
    type:
    ~~~
@@ -20,7 +20,7 @@
 8. Open VSCode and open the folder containing your repo
 
 ### Create your first web page
-On Google or YouTube find an HTML tutorial, try to understand the structure of HTML, and create a new HTML file. the file's title will be 'hello wold' and in the body will be:
+On Google or YouTube find an HTML tutorial, try to understand the structure of HTML. And then create a new HTML file. the file's title will be 'hello wold' and in the body will be:
 - _h1 tag_ said: Hello everyone
 - _h2 tag_ said: This is my first web page
 - _h3 tag_ said: My name is ***your name***
